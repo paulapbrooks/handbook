@@ -78,8 +78,7 @@ Appendix
 
    contributing
    content_pages/glossary
-   references
-   resources
+   resourcesAndReferences
 
 * :ref:`genindex`
 * :ref:`search`
