@@ -80,7 +80,6 @@ Appendix
    content_pages/glossary
    resourcesAndReferences
 
-* :ref:`genindex`
 * :ref:`search`
 
 ..
